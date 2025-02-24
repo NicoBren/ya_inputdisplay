@@ -5,6 +5,7 @@ Yet another input display for Clone Hero / YARG **(WIP)**
 It's made using Godot 4.3
 
 Strums at the side of the frets with waterfall effect.
+
 ![demo:](https://github.com/NicoBren/ya_inputdisplay/blob/main/demo.gif)
 
 ## FAQ/Common Issues
