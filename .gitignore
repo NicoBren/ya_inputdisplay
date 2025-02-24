@@ -16,3 +16,4 @@ data_*/
 
 # Ignore builds
 *.exe
+/exes
