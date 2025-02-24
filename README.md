@@ -4,7 +4,7 @@ Yet another input display for Clone Hero / YARG **(WIP)**
 
 It's made using Godot 4.3.
 
-![demo:](https://github.com/raphaelgoulart/ya_inputdisplay/blob/main/demo.gif)
+![demo:](https://github.com/NicoBren/ya_inputdisplay/blob/main/demo.gif)
 
 ## FAQ/Common Issues
 
